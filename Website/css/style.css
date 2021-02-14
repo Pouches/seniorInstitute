@@ -1,0 +1,16 @@
+#headerBar{
+    width:100%;
+    height:auto;
+    background-color:black;
+    color:white;
+    position:fixed;
+    top:0%;
+    left:0%;
+    font-size: 2rem;
+    font-family: 'Custom'
+    
+}
+@font-face{
+    font-family: 'Custom';
+    src:url('../fonts/NotoSerif-Regular')
+}
